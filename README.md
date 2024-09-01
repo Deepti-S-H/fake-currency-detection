@@ -46,4 +46,4 @@ This currency detection currently works only for Indian Currency notes of denomi
 	- Status of each feature (Pass/ Fail)
 
 ## That's all
-That's all about this project, folks!
+
